@@ -1,6 +1,6 @@
-# About Andrew Pyanzin
+# Hi, I am Andrew Pyanzin
 
-I am a Product Owner focused on platform products, developer ecosystems, experimentation, and analytics.
+Product Owner focused on platform products, developer ecosystems, experimentation, and analytics.
 
 My current work is connected with Shop Builder, a platform direction for building and customizing game commerce experiences. The long-term idea is close to "Shopify Apps for the gaming industry": a flexible foundation where internal teams, game developers, and third-party creators can build, extend, and reuse commerce solutions faster.
 
