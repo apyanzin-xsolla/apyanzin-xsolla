@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,55:5B2EFF,100:FF5A1F&text=Andrey%20Pyanzin&fontColor=FFFFFF&fontSize=44&desc=Product%20Owner%20%7C%20Shop%20Builder%20Platform&descAlignY=62&animation=fadeIn" alt="Andrey Pyanzin profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,55:5B2EFF,100:FF5A1F&text=Andrey%20Pyanzin&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=Product%20Owner%20%7C%20Shop%20Builder%20Platform&descAlignY=72&animation=fadeIn" alt="Andrey Pyanzin profile header" />
 </p>
 
 <p align="center">
