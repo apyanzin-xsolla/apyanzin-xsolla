@@ -28,22 +28,17 @@ The long-term idea is close to **Shopify Apps for the gaming industry**: a flexi
 | Experimentation | A/B testing, metrics design, decision quality, analytics loops |
 | Partner enablement | Clear intake, reusable solutions, faster go-live paths |
 
-## Selected Achievements
+## GitHub Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/17%20Products-0%20to%201-5B2EFF?style=for-the-badge&labelColor=0D1117" alt="17 products from 0 to 1" />
-  <img src="https://img.shields.io/badge/Revenue%20Impact-%2410M%2B-FF5A1F?style=for-the-badge&labelColor=0D1117" alt="$10M+ revenue impact" />
-  <img src="https://img.shields.io/badge/A%2FB%20Tests-100%2B-00C2FF?style=for-the-badge&labelColor=0D1117" alt="100+ A/B tests" />
-  <img src="https://img.shields.io/badge/MAU-5M%2B-12B981?style=for-the-badge&labelColor=0D1117" alt="5M+ monthly active users" />
+  <img width="84" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Achievement: Quickdraw" />
+  <img width="84" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Achievement: Pair Extraordinaire" />
 </p>
 
-| Achievement | Impact |
+| Achievement | GitHub meaning |
 | --- | --- |
-| Built no-code configuration and dynamic UI platform | Reduced time to market by 124% and supported products with 5M+ MAU |
-| Launched products from idea to market | 17 products shipped from 0 to 1 with $10M+ total revenue impact |
-| Scaled experimentation practice | 100+ A/B tests across growth, personalization, and product optimization |
-| Developed B2B SaaS monetization products | Delivered +256% YoY growth in a Wi-Fi monetization business |
-| Current platform focus | Shop Builder Platform, developer ecosystem, game commerce extensibility |
+| Quickdraw | Closed an issue or pull request within 5 minutes of opening |
+| Pair Extraordinaire | Co-authored commits in a merged pull request |
 
 ## Product Operating System
 
