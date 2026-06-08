@@ -28,18 +28,6 @@ The long-term idea is close to **Shopify Apps for the gaming industry**: a flexi
 | Experimentation | A/B testing, metrics design, decision quality, analytics loops |
 | Partner enablement | Clear intake, reusable solutions, faster go-live paths |
 
-## GitHub Achievements
-
-<p align="center">
-  <img width="84" src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" alt="Achievement: Quickdraw" />
-  <img width="84" src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Achievement: Pair Extraordinaire" />
-</p>
-
-| Achievement | GitHub meaning |
-| --- | --- |
-| Quickdraw | Closed an issue or pull request within 5 minutes of opening |
-| Pair Extraordinaire | Co-authored commits in a merged pull request |
-
 ## Product Operating System
 
 | Step | Output |
